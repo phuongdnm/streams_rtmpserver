@@ -7,4 +7,4 @@
 <!-- ABOUT THE PROJECT -->
 ## How it work
 
-![Demo](https://www.dropbox.com/s/jafdanpbfz6q1rf/diagrams.png?dl=1)
+![Demo](https://dl.dropboxusercontent.com/s/jafdanpbfz6q1rf/diagrams.png?dl=1)
